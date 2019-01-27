@@ -22,4 +22,4 @@ to the given directory.
 
 2. [Install](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) and [start](https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html) jupyter notebook in the source directory.
 
-3. Execute the the notebooks sequentially (order by filename), by this new files will be created under data/pickles/.
+3. Execute the the notebooks sequentially (order by filename), by this new files will be created under [data/pickles/](data/pickles).
