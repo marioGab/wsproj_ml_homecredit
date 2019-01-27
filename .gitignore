@@ -1,0 +1,4 @@
+data/pickles/
+data/original/**
+!data/original/readme.txt
+.ipynb_checkpoints
